@@ -1,5 +1,4 @@
 #IOS Dev
-
 ## Novice
 
  * Common
@@ -79,7 +78,7 @@
     * Read data from a plist and store that in your table.
     * Write a master-detail app that displays a list of items based on user input from from multiple text fields on a different view. Each item should represent a model object that you have created. The list of items grow as the user enters additional data. The user should also be able to delete items from the table as requested. As you add each item to the table, save it to the device using NSUserDefaults. When you are done adding items you should be able to close the app and then use NSUserDefaults to load in the data that you had added before. 
 
-## intermediate
+## Intermediate
 
 * Common
     * Create and conform to protocols to develop a blueprint of functionality
@@ -130,7 +129,7 @@
     * Write an app that can access the user's photos and use the camera to take new photos for use within the app.
     * Write a master-detail app that displays a list of items from a web service and, when an item is tapped, shows detail about the item
 
-## advanced
+## Advanced
 
 * Common
     * Develop and use functions with variadic parameters
@@ -177,7 +176,7 @@
 * **Challenges**
     * Write an app that has several screens with relatively complex layouts. It should read and send data to a web service using OAuth 2 and store data in Core Data. It should also animate views based on user interaction and have a full suite of automated tests for the model and controller layers. Code should be structured well and be easy to reason about.
 
-## expert
+## Expert
 
 * Common
     * 1111
@@ -211,40 +210,4 @@
     * Write an app with a complex UI that adjusts dynamically based on data from a web service as well as device size and orientation. The app should have a large number of screens, send and receive data from multiple web services using OAuth 2, store data in Core Data, use iOS 8 extensions, be localized for multiple regions, and perfom excellently. And it should be usable offline, queing web requests where appropriate to be sent when the connection is restored.
     * You're an expert. You can do anything you need to do in iOS, and you can do it beautifully, simply, and consistently. You can and *do* create your own challenges. :-)
 
-<!-- ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/thelongestlogin/iosdev/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thelongestlogin/iosdev/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
